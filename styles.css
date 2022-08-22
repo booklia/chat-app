@@ -223,13 +223,13 @@
     margin-right: 100px;
 }
 
-.ad-header {
+.advertisment-header {
     font-size: 45px;
     font-weight: 500;
     color: hsl(271, 36%, 24%);
 }
 
-.ad-text {
+.advertisment-text {
     line-height: 35px;
     color: hsl(270, 7%, 64%);
     margin-top: 20px;
